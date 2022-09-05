@@ -1,4 +1,4 @@
-# (ProsperLoan data exploration)
+# (Fashion-MNIST Dataset)
 ## by (Ajanaku Olumide)
 
 
